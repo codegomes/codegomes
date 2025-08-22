@@ -1,4 +1,4 @@
-## Oiii eu sou a Ana Clara Gomes, sou apaixonado por tecnologia e programação, sempre buscando aprender mais e compartilhar projetos interessantes por aqui no GitHub. 🚀 !
+## Oiii eu sou a Ana Clara Gomes, sou apaixonado por tecnologia e programação, sempre buscando aprender mais e compartilhar projetos interessantes por aqui no GitHub. 🚀 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
